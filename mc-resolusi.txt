@@ -1,4 +1,4 @@
 MC RESOLUSI
 - Konsisten untuk belajar dulu
 - Membuat bahan ajar 
-- Menambah bahan ajar baru
+- Mengimplementasikan bahan ajar baru
