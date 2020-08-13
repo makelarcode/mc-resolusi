@@ -2,5 +2,7 @@ Rencana Content MC
 
 - css
 - javascript 
+  * ES6
+  * framework javascript
 - php frameworks
 - inteview
